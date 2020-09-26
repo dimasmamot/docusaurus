@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'GDG - Tokopedia Way', // Title for your website.
-  tagline: 'GDG Demo!!!!',
+  title: 'GDG Jogjakarta - Tokopedia Way', // Title for your website.
+  tagline: 'GDG Demo Jogjakrata rocks!!!!!!',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
